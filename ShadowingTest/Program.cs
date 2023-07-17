@@ -9,7 +9,7 @@ namespace ShadowingTest
 
     public class Patient
     {
-        public string GetPatient()
+        public virtual string GetPatient()
         {
             return "Base Patient";
         }
@@ -17,7 +17,7 @@ namespace ShadowingTest
 
     public class GoldPatient:Patient
     {
-        public string GetPatient()
+        public new string GetPatient()
         {
             return "Child Patient";
         }
@@ -26,8 +26,11 @@ namespace ShadowingTest
     {
         static void Main(string[] args)
         {
-            Patient patient = new Patient();
-            Console.WriteLine(patient.GetPatient());
+            Patient patient = new GoldPatient();
+            Console.WriteLine(patient.GetPatient());//parent method get invoked
+            GoldPatient goldP = new GoldPatient();
+            Console.WriteLine(goldP.GetPatient());//child method gets invoked
+            
         }
     }
 }
