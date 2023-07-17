@@ -17,9 +17,9 @@ namespace ShadowingTest
 
     public class GoldPatient:Patient
     {
-        public new string GetPatient()
+        public new int GetPatient(int a)
         {
-            return "Child Patient";
+            return a;
         }
     }
     public class Program

@@ -6,3 +6,11 @@ C:\Users\Asus\Source\Repos\Learning-Advanced-Concepts\ShadowingTest\obj\Debug\Sh
 C:\Users\Asus\Source\Repos\Learning-Advanced-Concepts\ShadowingTest\obj\Debug\ShadowingTest.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Source\Repos\Learning-Advanced-Concepts\ShadowingTest\obj\Debug\ShadowingTest.exe
 C:\Users\Asus\Source\Repos\Learning-Advanced-Concepts\ShadowingTest\obj\Debug\ShadowingTest.pdb
+C:\Users\Asus\source\New folder\ShadowingTest\bin\Debug\ShadowingTest.exe.config
+C:\Users\Asus\source\New folder\ShadowingTest\bin\Debug\ShadowingTest.exe
+C:\Users\Asus\source\New folder\ShadowingTest\bin\Debug\ShadowingTest.pdb
+C:\Users\Asus\source\New folder\ShadowingTest\obj\Debug\ShadowingTest.csproj.AssemblyReference.cache
+C:\Users\Asus\source\New folder\ShadowingTest\obj\Debug\ShadowingTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\New folder\ShadowingTest\obj\Debug\ShadowingTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\New folder\ShadowingTest\obj\Debug\ShadowingTest.exe
+C:\Users\Asus\source\New folder\ShadowingTest\obj\Debug\ShadowingTest.pdb
